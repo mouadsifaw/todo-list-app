@@ -16,7 +16,7 @@ The To-Do List Application is a simple yet effective tool designed to help users
 
 The project consists of three main files:
 
-1. **`project.py`**: This file contains the main logic for the To-Do List application. It includes the main function that runs the app, along with three additional functions:
+1. **`to_do_list.py`**: This file contains the main logic for the To-Do List application. It includes the main function that runs the app, along with three additional functions:
    - `add_task(task)`: This function takes a task as input and adds it to the task list.
    - `view_tasks()`: This function displays all tasks along with their completion status. It helps users see what they have on their plate.
    - `mark_task_completed(task_number)`: This function allows users to mark a specific task as completed by its number in the list.
